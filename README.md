@@ -1,4 +1,4 @@
-# Assignment 2: Shell Scripting
+# System Automation and User Management Scripts
 
 This Assignment consists of two main scripts, System Setup Scripts and User Creation script.
 Each script contains multiple part to it which ultimately automate the process of either installing scripts and making configuration scripts or making a new user with a specified name, groups they can be added to and a default shell.
